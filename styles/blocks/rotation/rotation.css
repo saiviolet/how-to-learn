@@ -1,11 +1,15 @@
 @keyframes rotation {
   from {
+    /* transform-origin: center; */
     transform: rotate(0);
   }
   to {
+    /* transform-origin: center; */
     transform: rotate(360deg);
   }
 }
 .rotation {
+  /* height: 397px;
+  width: 397px; */
   animation: rotation 20s linear infinite;
 }
