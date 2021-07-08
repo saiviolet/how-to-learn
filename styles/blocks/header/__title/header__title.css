@@ -1,0 +1,11 @@
+.header__title {
+  /* задать позиционирование для отступа */
+  position: relative;
+  left: 64px;
+  width: 730px;
+  z-index: 1;
+  /* форматирование для текста */
+  font-size: 102px;
+  font-weight: 700;
+  line-height: 96px;
+}

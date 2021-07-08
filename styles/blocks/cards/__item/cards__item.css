@@ -1,0 +1,10 @@
+.cards__item {
+  padding-top: 60px;
+  list-style-type: none;
+  margin: 0 0 0 100px;
+  width: 240px;
+  flex-basis: 240px;
+}
+.cards__item:nth-of-type(3n+1) {
+  margin: 0;
+}

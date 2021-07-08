@@ -1,0 +1,12 @@
+.header {
+  overflow: hidden;
+  position: relative;
+  /* флекс, чтобы заголовок отцентрировать */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 600px;
+  max-height: 756px;
+  /*TODO удалить границу*/
+  background-color: #f2f2f2;
+}

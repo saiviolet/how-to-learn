@@ -1,0 +1,10 @@
+.video__iframe {
+  z-index: 100;
+  border: none;
+  width: 515px;
+  height: 316px;
+  margin: 50px 0 0 20px;
+}
+.video__iframe:first-of-type {
+  margin: 0;
+}

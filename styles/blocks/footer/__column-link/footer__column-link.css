@@ -1,0 +1,15 @@
+.footer__column-link {
+  /* для шрифта */
+  color: #fff;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 18px;
+  /* для списка */
+  text-decoration: none;
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+.footer__column-link:first-of-type {
+  margin: 0;
+}

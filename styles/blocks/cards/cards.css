@@ -1,0 +1,10 @@
+.cards {
+  width: 920px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+
+}
+.cards:first-of-type {
+  margin: 0;
+}

@@ -1,0 +1,10 @@
+.section-title {
+  /* убрать маргины, их использовать нельзя */
+  margin:0;
+  text-align: center;
+  min-width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 700;
+  color:#000;
+}
