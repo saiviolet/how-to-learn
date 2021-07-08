@@ -4,4 +4,6 @@
   position: absolute;
   right: 0;
   bottom: 0;
+  background-image: url(/../../images/two_again.png);
+  background-size: cover;
 }
