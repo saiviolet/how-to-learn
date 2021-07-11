@@ -1,7 +1,4 @@
 .video__iframe {
-  display: inline;
-  position: relative;
-  top: 50px;
   z-index: 100;
   border: none;
   width: 515px;
