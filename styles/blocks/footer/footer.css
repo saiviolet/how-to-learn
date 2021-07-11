@@ -3,4 +3,6 @@
   color: white;
   background-color: #000;
   min-height: 350px;
+  display: flex;
+  justify-content: center;
 }

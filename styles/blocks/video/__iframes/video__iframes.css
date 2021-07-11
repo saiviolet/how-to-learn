@@ -1,5 +1,8 @@
-.video__frames {
+.video__iframes {
   display: flex;
   justify-content: center;
   z-index:1;
+  margin: 0;
+  padding:0;
+  list-style-type:none;
 }

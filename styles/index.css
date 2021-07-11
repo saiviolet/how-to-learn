@@ -32,6 +32,7 @@
 @import url(blocks/video/video.css);
 @import url(blocks/video/__iframes/video__iframes.css);
 @import url(blocks/video/__iframe/video__iframe.css);
+@import url(blocks/video/__list/video__list.css);
 /* Подключаем блок oakley и элементы*/
 @import url(blocks/oakley/oakley.css);
 /* Подключаем блок feynman и элементы*/
@@ -67,12 +68,12 @@
 /* Подключаем блок table, элементы и модификаторы */
 @import url(blocks/table/table.css);
 @import url(blocks/table/__cell/table__cell.css);
+@import url(blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(blocks/table/__heading/table__heading.css);
+@import url(blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(blocks/table/__text/table__text.css);
+@import url(blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(blocks/table/_theme/table_theme_dark.css);
-@import url(blocks/table/_theme/table__cell_theme_dark.css);
-@import url(blocks/table/_theme/table__heading_theme_dark.css);
-@import url(blocks/table/_theme/table__text_theme_dark.css);
 /* Подключаем блок kaufman */
 @import url(blocks/kaufman/kaufman.css);
 @import url(blocks/kaufman/__triangel/kaufman__triangel.css);
@@ -80,16 +81,16 @@
 @import url(blocks/recources/recources.css);
 @import url(blocks/recources/__logo/recources__logo.css);
 @import url(blocks/recources/__logo-zone/recources__logo-zone.css);
+@import url(blocks/recources/__list/recources__list.css);
 /* Подключаем блок footer, элементы и модификаторы*/
 @import url(blocks/footer/footer.css);
 @import url(blocks/footer/__author/footer__author.css);
 @import url(blocks/footer/__column/footer__column.css);
+@import url(blocks/footer/__column/_content/footer__column_content-copyright.css);
 @import url(blocks/footer/__column-heading/footer__column-heading.css);
+@import url(blocks/footer/__column-list/footer__column-list.css);
 @import url(blocks/footer/__column-link/footer__column-link.css);
 @import url(blocks/footer/__column-links/footer__column-links.css);
 @import url(blocks/footer/__columns/footer__columns.css);
 @import url(blocks/footer/__social-icon/footer__social-icon.css);
-@import url(blocks/footer/_content/footer_content_copyright.css);
-@import url(blocks/footer/_content/footer_content_info.css);
-@import url(blocks/footer/_content/footer_content_social.css);
 
