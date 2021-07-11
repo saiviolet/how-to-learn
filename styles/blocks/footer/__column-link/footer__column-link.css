@@ -8,6 +8,7 @@
   line-height: 18px;
   text-decoration: none;
   list-style-type: none;
+  padding: 0;
 }
 .footer__column-link:hover {
   opacity: .7;
